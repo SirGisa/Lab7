@@ -17,3 +17,6 @@ feature-task2-3 — каталог проекта task2-3, содержащий 
 feature-task2-4 — каталог проекта task2-4, содержащий проект для задачи 2.4.
 
 feature-task3 — каталог проекта task3, содержащий проект для задачи 3.
+
+https://docs.google.com/document/d/1F9wE3Pzne1x9vfnmquIt2z9bfayb9YrNT5Pq3p_NDws/edit?tab=t.0
+ссылка на отчет
